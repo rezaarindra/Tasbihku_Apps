@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/kabah_portrait" />
+
+    <TextView
+        android:id="@+id/txtNilai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="0"
+        android:textColor="@color/white"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnTambah"
+        android:layout_alignStart="@+id/btnTambah"
+        android:layout_alignEnd="@+id/btnKurang"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:text="RESET" />
+
+    <Button
+        android:id="@+id/btnTambah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtNilai"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_toStartOf="@+id/txtNilai"
+        android:text="( + ) TAMBAH" />
+
+    <Button
+        android:id="@+id/btnKurang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnTambah"
+        android:layout_alignBottom="@+id/btnTambah"
+        android:layout_marginStart="2dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toEndOf="@+id/txtNilai"
+        android:text="( - ) KURANG" />
+
+
+    <Button
+        android:id="@+id/btnalquran"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnReset"
+        android:layout_alignStart="@+id/btnTambah"
+        android:layout_alignEnd="@+id/btnKurang"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:text="Al-Quran" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="179dp"
+        android:layout_marginEnd="120dp"
+        android:text="Tasbihku"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="90px" />
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tasbihku</string>
+
+    <string name="article_text"><div id="lipsum">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vestibulum placerat erat ac fermentum. Donec eu laoreet justo. Vivamus at luctus quam. Donec ultrices libero rutrum magna elementum, volutpat ultricies nisl aliquam. Nulla facilisi. Nulla maximus a leo id pretium. Pellentesque nec dolor eget dui interdum accumsan. Pellentesque eu libero nisi. Vestibulum vestibulum ultricies faucibus. In suscipit lacus non turpis malesuada tincidunt. Sed elementum id dui et dictum. Nam vitae dictum magna. Phasellus quis lorem eleifend, mollis lectus eget, efficitur elit. Maecenas sodales convallis ligula id pretium. Etiam in tortor ex.
+</p>
+<p>
+Fusce vitae metus egestas, iaculis ipsum ut, blandit risus. Pellentesque hendrerit libero at lectus placerat, vel suscipit ipsum facilisis. Etiam tincidunt efficitur tincidunt. Vivamus eget ante risus. Donec consectetur aliquam molestie. Nullam tempor dictum tellus sed fringilla. Fusce vehicula nisl id rhoncus aliquam. Vivamus lacus nunc, ultrices a gravida vel, ultrices a erat. Aenean ornare diam at rutrum lobortis. Nam eros orci, rutrum at vestibulum varius, rutrum maximus ante. Proin placerat mattis turpis, nec luctus nisi tincidunt sit amet. Pellentesque sit amet massa convallis, fringilla enim id, eleifend massa. Vestibulum rutrum lobortis augue quis sollicitudin. Vivamus cursus lacinia malesuada. Duis blandit massa id augue ultrices molestie. Nulla id iaculis ex, ut blandit ante.
+</p>
+<p>
+Phasellus imperdiet mi ac molestie egestas. Curabitur pulvinar est sed neque euismod, eu aliquet ante vehicula. Aliquam pulvinar ex vitae eros mollis placerat. Aenean vel lacus ut mi aliquet vestibulum sit amet in ipsum. Etiam posuere rutrum nunc, ac tempus libero pretium sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris posuere imperdiet turpis, id lobortis lectus iaculis molestie. Sed volutpat sodales consectetur. Etiam odio lacus, faucibus id ante nec, tempor posuere justo. Etiam porttitor, libero sit amet elementum dignissim, enim orci aliquet enim, eget varius tortor lacus eu lacus. Pellentesque risus massa, imperdiet nec posuere eu, placerat ac ante. Nam iaculis ligula vitae magna auctor, ultricies imperdiet libero scelerisque. Nunc tellus neque, sodales in vulputate sit amet, pulvinar at ligula. Suspendisse nec quam efficitur, viverra nulla quis, sagittis nibh.
+</p>
+<p>
+Nullam mauris nibh, faucibus eget faucibus ac, varius ultrices dolor. Pellentesque facilisis sem in massa ultricies pulvinar. Ut pharetra justo at sapien lacinia pretium. Nam vehicula faucibus lacus a interdum. Nullam aliquam, sem sed laoreet rhoncus, nulla orci laoreet leo, vitae viverra dolor purus ac libero. Fusce sed posuere magna. Mauris vitae ante risus. Duis eleifend in ex ut facilisis. Ut viverra auctor nisi nec ullamcorper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus ac arcu quis augue pellentesque condimentum quis at tellus. Maecenas quis posuere nunc. Phasellus euismod sagittis mauris in faucibus.
+</p>
+<p>
+Curabitur euismod eu lorem id pellentesque. Praesent facilisis, lorem sit amet ultricies gravida, leo ex laoreet eros, a sodales nisi diam consectetur eros. Nullam vitae mi lacus. Nunc eu felis fringilla, pellentesque mi ornare, lobortis metus. In placerat orci fringilla, lacinia urna eu, vulputate felis. Praesent et nisl vitae tortor efficitur condimentum. Donec sed euismod ante. Aenean at risus eget urna blandit consequat. Suspendisse potenti. Vivamus in ipsum erat. Donec iaculis dui quis ante porta, non rutrum urna mattis. Donec a dui nec neque ultrices iaculis vel eu sem. Mauris porta placerat dapibus. Ut consequat, erat vitae condimentum bibendum, libero nunc bibendum urna, vel sodales eros velit eget nisi. Donec varius, tellus vel dapibus fringilla, ex dolor vestibulum mi, in commodo tellus sem ac sem.
+</p></div></string>
+</resources>
